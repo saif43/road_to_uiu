@@ -1,0 +1,105 @@
+
+
+
+
+
+	#####
+	####
+	###
+	##
+	#
+	
+
+
+	**  The primary objective of CITS is to identify, design, plan, develop, implement and maintain
+	    various information systems in the university campus which will in turn position UIU as a 
+	    model for a world class university.
+
+	## Infrastructure
+
+	Campus wide structured cabling system.
+	1000 Mbps (Minimum) connectivity throughout the network.
+	High speed internet connection accessible by all UIU members.
+	Sophisticated computer lab with Intel Core 2 due, Dell Optiplex 170L (Pentium 4), Dell Optiplex 
+	160L  & Dell ptiplex 210L computers.
+	Separate browsing centre for high speed access to the Internet.
+	Internet (Proxy), Intranet and Email server.
+	Automation software developed by the CITS development team.
+	Local Digital library and connection to online resources.
+	Dell PowerEdge(c) 2600 Server,420 SC Server for excellent performance.
+	
+	## CITS Teams
+
+	With the vision to achieve specialization, CITS builds team of students and professionals and provide 
+	them with necessary training and resource support. People working in the IT industry are invited to give
+	the teams a touch of professional quality in different dimensions of IT. Some of the teams are:
+
+	Software development team.
+	Web development team.
+	Graphics designer team.
+	Animation developer team.
+	Research and development team.
+	
+
+	## CITS Services
+
+	CITS provides technical support for the University automation, network and computer laboratory services. 
+	CITS is committed to offer courses and workshops catered for faculty and students with regular intervals.
+	Our Computer Labs 	are equipped with the latest hardware and software tools in the form of the very 
+	latest Core 2 due, DELL 210L with multimedia, DVD-ROM and 2 GB RAM for demanding software and applications. 
+	All the labs are run with preinstalled and purchased licensed software.
+
+	CITS also provides a forum for providing students with ideal computing facilities and services. 
+	It will train 	programmers under its own in-house training programs to make programs with a true 
+	air of professionalism. Professional Grading will be made under the auspices test will be taken at 
+	the end of every year to grade students 	into probable programmers, designers and team leaders 
+	of the future.
+
+	Faculty at UIU will be able to use all CITS research and technological facilities to develop feasible industrial
+	level solutions. This would allow both students and faculty to benefit by using CITS trained quality professionals.
+
+	United International University is dedicated to providing the best possible information services to 
+	all members of the UIU community.
+
+	## Other Existing Services
+
+	More than four hundred computers located in all administrative, academic departments, and computer labs connected
+ 	through sophisticated campus wide Linux-based network system. An internal, domestic and international Linux-based 
+	networked e-mail service that connects students, faculty, and staff to their colleagues around the world. Free Web 		
+	mail for students and faculty alike for universal access. Seven student computer labs equipped with Pentium Core 2 	
+	due, DELL L210 Pentium IV 2.4 computers, staffed and monitored by Lab Assistants who provide training and user 	
+	support. All computers in the labs are networked, and every student has access to the network through their own 		
+	account. These labs are also equipped with quality laser printers, dot matrix printers for printing purposes.
+	
+	* Linux Servers for providing students courses on the UNIX based operating system and programming purposes.
+	
+	* An Internet Workstation that enables UIU on-line access to vast quantities of educational and research 
+	  information stored around the world.
+
+	* Automated student advising system that allows student class registration electronically.
+
+	* Latest software programming tools and operating systems for research and development purposes. 
+	  These include visual programming language tools, web development tools etc.
+
+	* A sophisticated PABX phone system that allows internal and external dialup.
+
+	* A team of skilled and knowledgeable technical support personnel who answers questions and provides on site hardware,			
+	   software and networking support to all users throughout the whole university.
+
+
+
+
+
+	#
+	##
+	###
+	####
+	#####
+
+
+
+
+
+
+
+	
